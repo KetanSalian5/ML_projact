@@ -22,6 +22,6 @@ version='0.0.1',
 author='Ketan Salian',
 author_email='ketan.salian3@gmail.com',
 packages=find_packages(),
-install_requires=get_requirements('requirements.txt.txt')
+install_requires=get_requirements('requirements.txt')
 
 )

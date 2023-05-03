@@ -1,7 +1,7 @@
 """We are writing our now custom exeception"""
 
 import sys
-from src.logger import logging
+#from src.logger import logging
 
 def error_massage_detail(error,error_details:sys):
     _,_,exc_tb=error_details.exc_info()

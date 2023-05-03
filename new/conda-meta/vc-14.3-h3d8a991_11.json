@@ -1,0 +1,36 @@
+{
+  "build": "h3d8a991_11",
+  "build_number": 11,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vs2015_runtime >=14.32.31332"
+  ],
+  "extracted_package_dir": "C:\\Users\\Ketan.Salian\\Anaconda3\\pkgs\\vc-14.3-h3d8a991_11",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "vc-14.3-h3d8a991_11.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\Ketan.Salian\\Anaconda3\\pkgs\\vc-14.3-h3d8a991_11",
+    "type": 1
+  },
+  "md5": "146b4d4baf7d24755f7330aa9106b097",
+  "name": "vc",
+  "package_tarball_full_path": "C:\\Users\\Ketan.Salian\\Anaconda3\\pkgs\\vc-14.3-h3d8a991_11.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "31af68b14a579c8c2f1d03e33ffea81c12b78845690d9725b80aecca30ebc1bd",
+  "size": 15882,
+  "subdir": "win-64",
+  "timestamp": 1682439887902,
+  "track_features": "vc14",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vc-14.3-h3d8a991_11.conda",
+  "version": "14.3"
+}
